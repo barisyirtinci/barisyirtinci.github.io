@@ -1,3 +1,5 @@
 ## TinDog Preview
 
-![preview](./prev.PNG "preview")
+![preview](./prev.png "preview")
+
+[Demo Page](https://barisyirtinci.github.io/TinDog)
